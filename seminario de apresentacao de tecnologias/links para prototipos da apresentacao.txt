@@ -1,0 +1,5 @@
+Timeline e introdução:
+https://www.figma.com/proto/jqAHnGCtRFt7MI6HEUhsVq/Flutter---Gabriel--Alexandre-de-Macedo?page-id=0%3A1&node-id=162-8&viewport=491%2C618%2C0.15&t=EZTyxDOviDHUVuGU-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=162%3A8
+
+Arquitetura:
+https://www.figma.com/proto/jqAHnGCtRFt7MI6HEUhsVq/Flutter---Gabriel--Alexandre-de-Macedo?page-id=165%3A3748&node-id=179-749&viewport=780%2C271%2C0.62&t=l74ls2DTmM3GTyA0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=179%3A749
